@@ -7,7 +7,7 @@ int main() {
     cout << "Enter how many numbers you want to input: ";
     cin >> n;
 
-    cout << "Enter " << n << " numbers:\n";
+    cout << "Enter the " << n << " numbers:\n";
     for (int i = 0; i < n; i++) {
         int num;
         cin >> num;
@@ -18,4 +18,5 @@ int main() {
 
     return 0;
 }
+
 
