@@ -4,6 +4,7 @@ using namespace std;
 int main() {
     int n;
 
+    cout << "GEO HAZAM" ;
     cout << "Enter how many numbers you want to input: ";
     cin >> n;
 
@@ -18,6 +19,7 @@ int main() {
 
     return 0;
 }
+
 
 
 
