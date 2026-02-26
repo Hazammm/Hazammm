@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     int n;
 
-    cout << "GEO " ;
+    cout << "GEO Hazam " ;
     cout << "Enter how many numbers you want to input: ";
     cin >> n;
 
