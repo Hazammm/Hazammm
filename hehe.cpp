@@ -5,6 +5,7 @@ int main() {
     int n;
 
     cout << "Na g Hazam sahb" ;
+    cout << "hn g Hazam sahb hn  g" ;
     cout << "Enter how many numbers you want to input: ";
     cin >> n;
 
