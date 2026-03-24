@@ -10,8 +10,6 @@ dahh
 <br>
 Its me again
 <br>
-Chan
-<br>
 
 
 
