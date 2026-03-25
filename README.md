@@ -6,12 +6,6 @@ guess who is back?
 <br>
 ofc me
 <br>
-dahh
-<br>
-Its me again
-<br>
-na kr aeda jan dey
-<br>
 
 
 
