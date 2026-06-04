@@ -8,10 +8,9 @@ My focus is on **clean, reliable, and scalable AI systems** that solve real-worl
 
 ### What Can I Do For You
 
-- Build **custom Machine Learning & Deep Learning models**  
+- Build **custom Machine Learning models**  
 - Develop **AI-based web and backend systems**  
 - Computer Vision solutions (face recognition, detection, classification)  
-- NLP solutions (text analysis, embeddings, automation)  
 - Speech-based AI (STT, TTS, voice processing)  
 - Model optimisation, evaluation & deployment guidance  
 
