@@ -20,7 +20,7 @@ If you have an idea — I can **turn it into a working AI product**.
 
 If you’re looking for a **reliable ML Engineer** for your next project:
 
-**LinkedIn:** [www.linkedin.com/in/hazam-liaqat-0665352ba](https://www.linkedin.com/in/hazam-liaqat-0665352ba)
+**LinkedIn:** [www.linkedin.com/in/hazamliaqat](https://www.linkedin.com/in/hazamliaqat)
 
 **Fiver:** Available on request  
 
