@@ -22,7 +22,7 @@ If you’re looking for a **reliable ML Engineer** for your next project:
 
 **LinkedIn:** [www.linkedin.com/in/hazamliaqat](https://www.linkedin.com/in/hazamliaqat)
 
-**Fiver:** Available on request of the clients
+**Fiver:** Available on request 
 
 ---
 ### GitHub Activity & Stats
