@@ -27,6 +27,6 @@ If you’re looking for a **reliable ML Engineer** for your next project:
 ---
 ### GitHub Activity & Stats
 
-<img height="200" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hazammm&theme=transparent" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hazammm&theme=transparent" />
+<img height="200" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hazammm&theme=transparent" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hazammm&theme=transparent" />
 
